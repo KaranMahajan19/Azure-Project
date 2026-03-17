@@ -1,0 +1,9 @@
+{
+	"name": "adfazureprojectkk",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "686deabf-b92e-47c0-bfe8-e07556e3154e",
+		"tenantId": "aa08e734-ba8d-4448-8763-c5a8dccd0378"
+	}
+}
