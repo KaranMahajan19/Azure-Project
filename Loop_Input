@@ -23,4 +23,10 @@
     "cdc_column" : "updated_at"
     "from_date" : ""
   },
+  {
+    "schema" : "dbo"
+    "table" : "FactStream"
+    "cdc_column" : "updated_at"
+    "from_date" : ""
+  },
 ]
