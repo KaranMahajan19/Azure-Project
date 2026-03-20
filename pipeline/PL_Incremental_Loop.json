@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "ForEach1",
+				"name": "ForEach",
 				"type": "ForEach",
 				"dependsOn": [],
 				"userProperties": [],
@@ -318,7 +318,7 @@
 				"type": "WebActivity",
 				"dependsOn": [
 					{
-						"activity": "ForEach1",
+						"activity": "ForEach",
 						"dependencyConditions": [
 							"Failed",
 							"Skipped",
